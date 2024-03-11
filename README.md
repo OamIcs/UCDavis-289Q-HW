@@ -111,7 +111,7 @@ The parameter settings are as follows:
 
 | Algorithm       | Initial Temperature | Stopping Temperature | Cooling Rate | Iterations | Approximate Running Time | Best Result(Euclidean) | Best Result(Random) |
 | --------------- | ------------------- | -------------------- | ------------ | ---------- | ------------------------ | ---------------------- | ------------------- |
-| SA-opt2         | 10                  | 0.001                | 0.99999      | 6905       | 13min                    | 3183                   | 1663                |
+| SA-opt2         | 10                  | 0.001                | 0.99999      | 921030     | 13min                    | 3183                   | 1663                |
 | SA-opt2         | 1                   | 0.001                | 0.999        | 6905       | 8s                       | 21720                  | 16261               |
 | SA-opt3         | 1                   | 0.001                | 0.999        | 6905       | 25s                      | 15540                  | 9664                |
 | SA-opt3-init=NN | 1                   | 0.001                | 0.999        | 6905       | 25s                      | 2906                   | 584                 |
